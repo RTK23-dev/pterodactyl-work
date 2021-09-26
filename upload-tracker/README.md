@@ -5,7 +5,7 @@
 
 <h3 align="left">Manual Installation</h3>
 
-- Upload `UploadButton.tsx` into `/var/www/pterodactyl/resources/scripts/components/server/files# `
+- Upload `UploadButton.tsx` into `/var/www/pterodactyl/resources/scripts/components/server/files`
 - When you are done with uploading rebuild the panel
 
 **https://pterodactyl.io/community/customization/panel.html**
