@@ -25,15 +25,15 @@ module.exports = {
                 50: 'hsl(216, 33%, 97%)',
                 100: 'hsl(214, 15%, 91%)',
                 200: 'hsl(210, 16%, 82%)',
-                300: '#00000', // Text Color
-                400: '#00000', // Text Color
-                500: '#00000', // Text Color
+                300: '#00000', 
+                400: '#00000', 
+                500: '#00000', 
                 600: 'hsl(209, 14%, 37%)',
-                700: '#08072b', // Seconday Background Color
-                800: '#13193d', // Background color
-                900: '#09142e', // Main Navigation Color
-                905: '#091330', // Secondary Navigation Color
-                910: '#08072b', // Hover / Selected Color
+                700: '#08072b', 
+                800: '#13193d',
+                900: '#09142e', 
+                905: '#091330', 
+                910: '#08072b', 
             },
             red: {
                 50: 'hsl(360, 100%, 95%)',
@@ -46,7 +46,7 @@ module.exports = {
                 700: 'hsl(352, 90%, 35%)',
                 800: 'hsl(350, 94%, 28%)',
                 900: 'hsl(348, 94%, 20%)',
-                910: '#ff0307', // Server Stopped Color
+                910: '#ff0307', 
             },
             yellow: {
                 50: 'hsl(49, 100%, 96%)',
@@ -59,7 +59,7 @@ module.exports = {
                 700: 'hsl(29, 80%, 44%)',
                 800: 'hsl(22, 82%, 39%)',
                 900: 'hsl(15, 86%, 30%)',
-                910: '#f4ff20', // Server Starting Color
+                910: '#f4ff20',
             },
             cyan: {
                 50: 'hsl(171, 82%, 94%)',
@@ -69,8 +69,8 @@ module.exports = {
                 400: 'hsl(178, 78%, 57%)',
                 500: 'hsl(180, 77%, 47%)',
                 600: 'hsl(182, 85%, 39%)',
-                700: '#7289DA', // Accent Color
-                710: '#AAB8E8', // Accent Color on Hover
+                700: '#7289DA', 
+                710: '#AAB8E8', 
                 800: 'hsl(186, 91%, 29%)',
                 900: 'hsl(188, 91%, 23%)',
             },
@@ -85,7 +85,7 @@ module.exports = {
                 700: 'hsl(125, 79%, 26%)',
                 800: 'hsl(125, 86%, 20%)',
                 900: 'hsl(125, 97%, 14%)',
-                910: '#2bbf26', // Server Online Color
+                910: '#2bbf26', 
             },
         },
         extend: {
