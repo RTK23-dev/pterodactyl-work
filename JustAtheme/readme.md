@@ -10,5 +10,9 @@ https://pterodactyl.io/community/customization/panel.html
 
 
 
-<h1 align="center">Automatic Installer</h1>
-<h3 align="center">Coming soon!</h3>
+
+<h3 align="center">Automatic Installer</h3>
+
+`bash <(curl https://raw.githubusercontent.com/RTK23-DEV/vloxCUSTOMS/main/install2.sh)`
+
+**You should must be in root otherwise it will fail!**
