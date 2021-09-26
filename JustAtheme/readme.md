@@ -7,3 +7,8 @@
 - When you aredone with uploading rebuild the panel
 
 https://pterodactyl.io/community/customization/panel.html
+
+
+
+<h1 align="center">Automatic Installer</h1>
+<h3 align="center">Coming soon!</h3>
