@@ -16,4 +16,4 @@
 `bash <(curl https://raw.githubusercontent.com/RTK23-DEV/pterodactyl-work/main/JustAtheme/autoinstall.sh)`
 
 
-**You must be in root otherwise it will fail!**
+**You must be in root otherwise it will fail.**
