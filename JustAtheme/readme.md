@@ -3,10 +3,10 @@
 
 <h3 align="left">How to install</h3>
 
-- Upload tailwind.config.js into /var/www/pterodactyl
+- Upload `tailwind.config.js` into `/var/www/pterodactyl`
 - When you aredone with uploading rebuild the panel
 
-https://pterodactyl.io/community/customization/panel.html
+**https://pterodactyl.io/community/customization/panel.html**
 
 
 
