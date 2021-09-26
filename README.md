@@ -1,4 +1,4 @@
-# pterodactyl-theme
+# Pterodactyl Free Themes/Addons
 Free Pterodactyl themes and addons!
 
 ## Installation
