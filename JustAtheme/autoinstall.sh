@@ -9,6 +9,5 @@ cd /var/www/pterodactyl
 yarn install
 yarn add @emotion/react
 yarn build:production
-clear
 php /var/www/pterodactyl/artisan up
 echo "Done theme has been installed thanks for using this theme / script make sure to star the repo!"
