@@ -12,3 +12,6 @@ If you want to contribute then you can open a pull request at `develop` branch.
 
 ## Better Themes?
 - DM me at Discord `RTK#0001` to buy a better and pog themes at cheap price.
+
+## Suggetions?
+Start a new discussion at this github repo.
