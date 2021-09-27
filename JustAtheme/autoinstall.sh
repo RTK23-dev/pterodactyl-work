@@ -1,4 +1,3 @@
-
 php /var/www/pterodactyl/artisan down
 cd /var/www/pterodactyl
 rm -rf tailwind.config.js
