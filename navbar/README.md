@@ -5,7 +5,7 @@
 
 <h3 align="left">Manual Installation</h3>
 
-- Upload `NavBar.tsx` into `/var/www/pterodactyl/resources/scripts/components`
+- Upload `NavigationBar.tsx` into `/var/www/pterodactyl/resources/scripts/components/`
 - When you are done with uploading rebuild the panel
 
 **https://pterodactyl.io/community/customization/panel.html**
@@ -17,7 +17,7 @@
 
 <h3 align="center">Automatic Installer</h3>
 
-`bash <(curl https://raw.githubusercontent.com/RTK23-DEV/pterodactyl-work/main/navbar/autoinstall.sh)`
+`bash <(curl https://raw.githubusercontent.com/RTK23-DEV/pterodactyl-work/main/Navigationbar/autoinstall.sh)`
 
 
 **You must be in root otherwise it will fail.**
