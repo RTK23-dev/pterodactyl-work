@@ -1,6 +1,9 @@
 # Pterodactyl Free Themes/Addons
 Free Pterodactyl themes and addons!
 
+[![Build Status](https://travis-ci.com/RTK23-DEV/pterodactyl-work.svg?branch=master)](https://travis-ci.com/RTK23-DEV/pterodactyl-work)
+
+
 ## Installation
 Open any theme / addon directory of this github repo to know how to install available themes.
 
