@@ -18,4 +18,6 @@ yarn add @emotion/react
 yarn build:production
 php /var/www/pterodactyl/artisan up
 clear
-echo "Done theme has been installed thanks for using this script make sure to star the repo!"
+echo "Done theme has been installed thanks for using this script make sure to star the repo!
+If the theme isn't installed on your panel run cd /var/www/pterodactyl
+yarn build:production  to know the error."
