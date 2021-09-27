@@ -3,12 +3,6 @@ cd /var/www/pterodactyl
 rm -rf tailwind.config.js
 wget https://raw.githubusercontent.com/RTK23-dev/pterodactyl-work/main/JustAtheme/tailwind.config.js
 cd
-cd /var/www/pterodactyl/resources/scripts/components/server/startup
-rm -rf StartupContainer.tsx
-rm -rf VariableBox.tsx
-wget https://raw.githubusercontent.com/RTK23-dev/pterodactyl-work/main/JustAtheme/VariableBox.tsx
-wget https://raw.githubusercontent.com/RTK23-dev/pterodactyl-work/main/JustAtheme/StartupContainer.tsx
-cd 
 cd /var/www/pterodactyl/assets/css
 rm -rf GlobalStylesheet.ts
 wget https://raw.githubusercontent.com/RTK23-dev/pterodactyl-work/main/JustAtheme/GlobalStylesheet.ts
