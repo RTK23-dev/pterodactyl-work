@@ -9,7 +9,7 @@ Open any theme / addon directory of this github repo to know how to install avai
 If you have any issues, open an issue on this github.
 
 ## Contributing 
-If you want to contribute then you can open a pull request at `develop` branch.
+If you want to contribute then you can fork `main` branch of this repo and open a pull request at `develop` branch.
 
 ## Better Themes?
 - DM me at Discord `RTK#0001` to buy a better and pog themes at cheap price.
