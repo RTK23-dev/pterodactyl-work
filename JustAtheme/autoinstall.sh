@@ -1,3 +1,4 @@
+set -e
 php /var/www/pterodactyl/artisan down
 cd /var/www/pterodactyl
 rm -rf tailwind.config.js
@@ -6,7 +7,7 @@ cd
 cd /var/www/pterodactyl/assets/css
 rm -rf GlobalStylesheet.ts
 wget https://raw.githubusercontent.com/RTK23-dev/pterodactyl-work/main/JustAtheme/GlobalStylesheet.ts
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 apt install -y nodejs
 npm i -g yarn
 cd /var/www/pterodactyl
