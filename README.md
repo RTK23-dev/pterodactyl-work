@@ -2,7 +2,7 @@
 Free Pterodactyl themes and addons!
 
 ## Installation
-Open any theme / addon dir of this github repo to know how to install available themes.
+Open any theme / addon directory of this github repo to know how to install available themes.
 
 ## Issues
 If you have any issues, open an issue on this github.
