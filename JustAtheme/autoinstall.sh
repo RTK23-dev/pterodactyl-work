@@ -1,7 +1,7 @@
 php /var/www/pterodactyl/artisan down
 cd /var/www/pterodactyl
 rm -rf tailwind.config.js
-wget https://raw.githubusercontent.com/RTK23-dev/pterodactyl-work/main/JustAtheme/autoinstall.sh
+wget https://raw.githubusercontent.com/RTK23-dev/pterodactyl-work/main/JustAtheme/tailwind.config.js
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 apt install -y nodejs
 npm i -g yarn
