@@ -1,5 +1,4 @@
 set -e
-echo 🤖 Script Started
 sudo su -
 php /var/www/pterodactyl/artisan down
 cd /var/www/pterodactyl
