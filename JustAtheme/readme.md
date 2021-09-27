@@ -6,9 +6,7 @@
 
 <h1 align="center"></h1>
 
-### Installer Under Maintenance 
-- You may copy paste commands at `autoinstall.sh` in your ssh.
-
+###
 <h3 align="center">Automatic Installer</h3>
 
 ```
