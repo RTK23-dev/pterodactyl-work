@@ -11,7 +11,7 @@
 **https://pterodactyl.io/community/customization/panel.html**
 
 
-## Automatic Installer Abondoned use manual installation
+<h1 align="center"></h1>
 
 <h3 align="center">Automatic Installer</h3>
 
