@@ -29,8 +29,8 @@ module.exports = {
                 400: '#fff', // Text Color
                 500: '#fff', // Text Color
                 600: 'hsl(209, 14%, 37%)',
-                700: '#2F3137', // Seconday Background Color
-                800: '#36393F', // Background color
+                700: '#1c1e1f', // Seconday Background Color
+                800: '#0f0f0f', // Background color
                 900: '#202226', // Main Navigation Color
                 905: '#2F3137', // Secondary Navigation Color
                 910: '#40444C', // Hover / Selected Color
@@ -46,7 +46,7 @@ module.exports = {
                 700: 'hsl(352, 90%, 35%)',
                 800: 'hsl(350, 94%, 28%)',
                 900: 'hsl(348, 94%, 20%)',
-                910: '#F93F42', // Server Stopped Color
+                910: '#F93F42', 
             },
             yellow: {
                 50: 'hsl(49, 100%, 96%)',
@@ -59,7 +59,7 @@ module.exports = {
                 700: 'hsl(29, 80%, 44%)',
                 800: 'hsl(22, 82%, 39%)',
                 900: 'hsl(15, 86%, 30%)',
-                910: '#FFA420', // Server Starting Color
+                910: '#FFA420', 
             },
             cyan: {
                 50: 'hsl(171, 82%, 94%)',
@@ -69,8 +69,8 @@ module.exports = {
                 400: 'hsl(178, 78%, 57%)',
                 500: 'hsl(180, 77%, 47%)',
                 600: 'hsl(182, 85%, 39%)',
-                700: '#7289DA', // Accent Color
-                710: '#AAB8E8', // Accent Color on Hover
+                700: '#7289DA', 
+                710: '#AAB8E8', 
                 800: 'hsl(186, 91%, 29%)',
                 900: 'hsl(188, 91%, 23%)',
             },
@@ -85,7 +85,7 @@ module.exports = {
                 700: 'hsl(125, 79%, 26%)',
                 800: 'hsl(125, 86%, 20%)',
                 900: 'hsl(125, 97%, 14%)',
-                910: '#47B381', // Server Online Color
+                910: '#47B381', 
             },
         },
         extend: {
