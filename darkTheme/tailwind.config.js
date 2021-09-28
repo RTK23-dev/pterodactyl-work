@@ -25,9 +25,9 @@ module.exports = {
                 50: 'hsl(216, 33%, 97%)',
                 100: 'hsl(214, 15%, 91%)',
                 200: 'hsl(210, 16%, 82%)',
-                300: '#fff', // Text Color
-                400: '#fff', // Text Color
-                500: '#fff', // Text Color
+                300: '#fff', 
+                400: '#fff', 
+                500: '#fff', 
                 600: 'hsl(209, 14%, 37%)',
                 700: '#1c1e1f', // Seconday Background Color
                 800: '#0f0f0f', // Background color
