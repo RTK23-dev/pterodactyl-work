@@ -59,8 +59,7 @@ export default ({ server, className }: { server: Server; className?: string }) =
   }, [stats ?.isSuspended, server.status]);
 
   useEffect(() => {
-    // Don't waste a HTTP request if there is nothing important to show to the user because
-    // the server is suspended.
+    
     if (isSuspended) return;
 
     getStats().then(() => {
