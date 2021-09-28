@@ -14,8 +14,7 @@ import CopyOnClick from '@/components/elements/CopyOnClick';
 import { ServerContext } from '@/state/server';
 import { SocketEvent, SocketRequest } from '@/components/server/events';
 
-// Determines if the current value is in an alarm threshold so we can show it in red rather
-// than the more faded default style.
+
 const isAlarmState = (current: number, limit: number): boolean => limit > 0 && (current / (limit * 1024 * 1024) >= 0.90);
 
 const Icon = memo(styled(FontAwesomeIcon) <{ $alarm: boolean }>`
@@ -30,7 +29,7 @@ const IconDescription = styled.p<{ $alarm: boolean }>`
 const StatusIndicatorBox = styled(GreyRowBox) <{ $status: ServerPowerState | undefined }>`
         width: 100%;
         margin-left: 0 auto;
-        height: 30.5rem !important;
+        height: 10.5rem !important;
         display: inline-block;
         text-align: center;
 
