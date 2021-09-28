@@ -24,3 +24,10 @@ bash <(curl https://raw.githubusercontent.com/RTK23-DEV/pterodactyl-work/main/bi
 
 
 **You must be in root otherwise it will fail.**
+
+<h1 align="center"></h1>
+
+## Faq
+
+# Why too big?
+- As the name says `Big Server Row` and big because our focus was to make the server look like containers.
