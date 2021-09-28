@@ -31,9 +31,9 @@ module.exports = {
                 600: 'hsl(209, 14%, 37%)',
                 700: '#1c1e1f', 
                 800: '#00000', 
-                900: '#202226', // Main Navigation Color
-                905: '#2F3137', // Secondary Navigation Color
-                910: '#40444C', // Hover / Selected Color
+                900: '#00000', 
+                905: '#2F3137', 
+                910: '#40444C', 
             },
             red: {
                 50: 'hsl(360, 100%, 95%)',
