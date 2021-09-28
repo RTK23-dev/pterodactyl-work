@@ -29,7 +29,7 @@ const IconDescription = styled.p<{ $alarm: boolean }>`
 const StatusIndicatorBox = styled(GreyRowBox) <{ $status: ServerPowerState | undefined }>`
         width: 100%;
         margin-left: 0 auto;
-        height: 25rem !important;
+        height: 31rem !important;
         display: inline-block;
         text-align: center;
 
