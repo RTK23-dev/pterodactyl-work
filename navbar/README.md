@@ -1,9 +1,11 @@
-## Will be made soon™
+
 
 <h1 align="center">Custom Navigation Bar</h1>
 <h3 align="center">A good free addon for pterodactyl!</h3>
 
-<h3 align="left">Manual Installation</h3>
+<h3 align="left"> Installation</h3>
+
+- 
 
 - Upload `NavigationBar.tsx` into `/var/www/pterodactyl/resources/scripts/components/`
 - When you are done with uploading rebuild the panel
