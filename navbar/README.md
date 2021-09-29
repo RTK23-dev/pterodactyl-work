@@ -5,8 +5,8 @@
 
 <h3 align="left"> Installation</h3>
 
-- 
-
+- Fork this repository.
+- **At line `61` of `NavigationBar.tsx` add your discord invite link.**
 - Upload `NavigationBar.tsx` into `/var/www/pterodactyl/resources/scripts/components/`
 - When you are done with uploading rebuild the panel
 
