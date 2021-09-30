@@ -1,4 +1,4 @@
-
+### **Not ready yet.**
 
 <h1 align="center">Custom Login Logo</h1>
 
@@ -8,6 +8,9 @@
 - Go to 
 ```
 /var/www/pterodactyl/resources/scripts/assets/images/
+```
+```
+/var/www/pterodactyl/public/assets/svgs/
 ```
 - Add your host logo there with name `logo.png`
 - When you are done doing the above run this script.
