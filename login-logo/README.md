@@ -7,7 +7,7 @@
 
 - Go to 
 ```
-/var/www/pterodactyl/public/assets/svgs/
+/var/www/pterodactyl/resources/scripts/assets/images/
 ```
 - Add your host logo there with name `logo.png`
 - When you are done doing the above run this script.
