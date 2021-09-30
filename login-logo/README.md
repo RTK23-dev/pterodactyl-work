@@ -15,5 +15,9 @@
 <h1 align="center"></h1>
 
 ```
+bash <(curl https://raw.githubusercontent.com/RTK23-DEV/pterodactyl-work/main/login-logo/script.sh)
 
 ```
+
+
+### **Do not run script without adding `logo.png` first.
