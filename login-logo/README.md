@@ -20,4 +20,4 @@ bash <(curl https://raw.githubusercontent.com/RTK23-DEV/pterodactyl-work/main/lo
 ```
 
 
-### **Do not run script without adding `logo.png` first.
+### **Do not run script without adding `logo.png` first.**
