@@ -2,6 +2,9 @@
 Free Pterodactyl themes and addons!
 
 
+# **⚠️ Your machine must have atleast 2 gb ram to install themes as building panel assets takes 1 gb ram.**
+
+
 ## Installation
 Open any theme / addon directory of this github repo to know how to install available themes.
 
