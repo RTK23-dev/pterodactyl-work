@@ -1,3 +1,7 @@
+<h1> Archived Respiratory <h1>
+- I will make better themes in a private repo then will public it no support will be provided if you are using these
+.
+
 # Pterodactyl Free Themes/Addons
 Free Pterodactyl themes and addons!
 
